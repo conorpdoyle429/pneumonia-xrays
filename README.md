@@ -25,3 +25,5 @@ The layers of the model are as follows:
  It differs from LeNet by using same convolutions to maintain the size of images and max pooling layers instead of average pooling, which is more popular in modern deep learning
  
  I also did some experimention with dropout layers
+
+The dataset can be found at https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
