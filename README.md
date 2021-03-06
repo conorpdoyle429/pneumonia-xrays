@@ -1,5 +1,5 @@
 # Pneumonia X-rays Image Recognition
-Tis is a project to practice use of CNNs for image recognition on pneumonia x-ray images
+This is a project to practice use of CNNs for image recognition on pneumonia x-ray images
 
 The dataset for this project contains chest x-ray images.
 The dataset contains a training folder (5216 images), validation folder (16 images) and test folder (624 images).
